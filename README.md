@@ -1,7 +1,8 @@
 # F SEO!
 
+| | | |
+|-|-|-|
 | [by liledix4](https://github.com/liledix4) | [GitHub repository](https://github.com/liledix4/fseo) | [Apache-2.0 License](https://raw.githubusercontent.com/liledix4/fseo/refs/heads/main/LICENSE) |
-| ------------------------------------------ | ----------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 
 ## What is SEO?
 
