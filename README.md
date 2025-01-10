@@ -1,6 +1,6 @@
 # F SEO!
 
-<div align="center">
+<div style="text-align: center">
 
 | <span style="font-size: 2em">💚</span> | <span style="font-size: 2em">📁</span> | <span style="font-size: 2em">📜</span> |
 |:---:|:---:|:---:|
