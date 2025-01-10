@@ -1,5 +1,8 @@
 # F SEO!
 
+| [by liledix4](https://github.com/liledix4) | [GitHub repository](https://github.com/liledix4/fseo) |
+| ------------------------------------------ | ----------------------------------------------------- |
+
 ## What is SEO?
 
 [Search Engine Optimization](https://en.wikipedia.org/wiki/Search_engine_optimization). Wikipedia:
